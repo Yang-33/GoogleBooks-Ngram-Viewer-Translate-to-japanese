@@ -2,7 +2,7 @@
 
 使い方
 
-# 基本編
+# 基本 編
 - Wildcard Search　"*"
 	> University of *
 	> 
@@ -57,7 +57,7 @@
 >
 >\_END\_	end of a sentence
 
-# 組み合わせ方など、その例
+# 組み合わせ方&その例 編
 - read "xxx" book の限定詞を考える
     > read * _DET book とすることで、 
     >
