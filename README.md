@@ -1,14 +1,4 @@
 # GoogleBooks_Ngram_Viewer_a 
-ア
-
-お　わ　り　
-## うんちについて
-
-うんちー♪うんちー♪うんちー♪
-
-
-IQが1
-人の金で焼き肉が食べたい
 
 使い方
 
@@ -16,8 +6,8 @@ IQが1
 	> University of *
 	> 
 	>これで University of にマッチする単語が得られる。
-    >ただしtop10しか表示されないの。
-    >また接頭辞接尾辞を指定したい場合？は "\_STRAT\_ / \_END\_" で指定を行う。
+    >ただしtop10しか表示されない。
+    >また接頭辞接尾辞を指定したい場合？は "\_STRAT\_ / \_END\_" で指定を行う。
 
 - Inflection Search
     > book_INF a hotel
@@ -111,13 +101,20 @@ IQが1
 
 - cook_INF, cook_VERB_INFでは、
     >cook
-cooking
-cooked
-cooks
-cooked_VERB
-cooking_VERB
-cook_VERB
-cooks_VERBが検索できる。
+>cooking
+>
+>cooked
+>
+>cooks
+>
+>cooked_VERB
+>
+>cooking_VERB
+>
+>cook_VERB
+>
+>cooks_VERB
+が検索できる。
 
 - \_START\_, \_END\_ について
     > \_START\_ President Truman
