@@ -2,27 +2,28 @@
 
 使い方
 
-- Wildcard Search
+# 基本編
+- Wildcard Search　"*"
 	> University of *
 	> 
 	>これで University of にマッチする単語が得られる。
     >ただしtop10しか表示されない。
     >また接頭辞接尾辞を指定したい場合？は "\_STRAT\_ / \_END\_" で指定を行う。
 
-- Inflection Search
+- Inflection Search "_INF"
     > book_INF a hotel
     > 
 	>これでbook~と語尾が変化するものをすべて検索できる。
     >例の中には "book", "booked", "books", "booking"が含まれていた
     >検索クエリの中には一つか使用できないので注意
 
-- Case Insensitive Search
+- Case Insensitive Search 
 	> デフォルトでは大文字と小文字を区別した検索が行われているが、検索クエリの欄を触ると、大文字と小文字を区別しない検索ができる。
     > 例えば「 Dupont（All）」を右クリックすると、「DuPont」、「Dupont」、「duPont」、および「DUPONT」の4種類が表示される。
 	>
     >検索では以上の3つを自由に組み合わせることはできず、一つしか使用できない。
 
-- Part-of-speech Tags 品詞タグ
+- Part-of-speech Tags "品詞タグ"
     > tackle_VERB , tackle_NOUN
     > 品詞を書くことによって\*よりも細かい検索ができる。
    
@@ -56,7 +57,7 @@
 >
 >\_END\_	end of a sentence
 
-### 組み合わせ方など
+# 組み合わせ方など、その例
 - read "xxx" book の限定詞を考える
     > read * _DET book とすることで、 
     >
@@ -114,7 +115,7 @@
 >cook_VERB
 >
 >cooks_VERB
-が検索できる。
+>が検索できる。
 
 - \_START\_, \_END\_ について
     > \_START\_ President Truman
