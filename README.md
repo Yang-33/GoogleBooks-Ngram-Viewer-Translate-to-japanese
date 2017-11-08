@@ -1,4 +1,4 @@
-# GoogleBooks-Ngram-Viewer-Translate-to-japanese
+# GoogleBooks-Ngram-Viewer-Translation-to-japanese
 
 使い方   リンク↓
 
