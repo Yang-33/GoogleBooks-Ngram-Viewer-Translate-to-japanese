@@ -1,8 +1,6 @@
-# GoogleBooks_Ngram_Viewer_a 
+# GoogleBooks-Ngram-Viewer-Translate-to-japanese
 
-使い方
-
-リンク
+使い方   リンク↓
 
 [Google Books Ngram Viewer](https://books.google.com/ngrams)
 
