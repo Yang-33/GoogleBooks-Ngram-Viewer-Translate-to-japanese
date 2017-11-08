@@ -1,8 +1,11 @@
 # GoogleBooks_Ngram_Viewer_a 
 
 使い方
+リンク
+[Google Books Ngram Viewer](https://books.google.com/ngrams)
+[Google Books Ngram Viewer 使い方](https://books.google.com/ngrams/info)
 
-# 基本 編
+# 基本編
 - Wildcard Search　"*"
 	> University of *
 	> 
